@@ -1,11 +1,11 @@
-# WhatUpDoe ✊
+# whoami
 
 I'm an opinionated developer who loves open-source, decentralization, no-code solutions, and empowering creators.
 
-## About Me
+## whatido
 - 💻 I build tools to simplify development and amplify creativity.
 - 🌍 Advocate for open-source, and decentralized publishing.
 - 🗣️ [@deviorobert](https://twitter.com/deviorobert)
 
-## What's Next?
+## whatsnext?
 I’m always up to something 😎
