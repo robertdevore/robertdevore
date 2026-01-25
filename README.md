@@ -1,11 +1,16 @@
 # whoami
 
-I'm an opinionated developer who loves open-source, decentralization, no-code solutions, and empowering creators.
+Opinionated open-source developer building decentralized, durable systems that reduce platform dependence and empower creators.
 
 ## whatido
-- 💻 I build tools to simplify development and amplify creativity.
-- 🌍 Advocate for open-source, and decentralized publishing.
+- 💻 Build open-source tools that simplify development and scale creative work.
+- 🌍 Advocate for decentralization and platform-independent publishing.
+
+## whereiam
+
+- 🏠 [website](https://robertdevore.com/)
 - 🗣️ [@deviorobert](https://twitter.com/deviorobert)
+- 🤖 [prompts](https://prompts.robertdevore.com)
 
 ## whatsnext?
-I’m always up to something 😎
+I'm always up to something 😎
