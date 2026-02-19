@@ -1,6 +1,6 @@
 # whoami
 
-Opinionated open-source developer building decentralized, durable systems that reduce platform dependence and empower creators.
+Opinionated open-source developer building decentralized systems that reduce platform dependence &amp; empower creators.
 
 ## whatido
 - 💻 Build open-source tools that simplify development and scale creative work.
