@@ -9,8 +9,7 @@ Opinionated open-source developer building decentralized, durable systems that r
 ## whereiam
 
 - 🏠 [website](https://robertdevore.com/)
-- 🗣️ [@deviorobert](https://twitter.com/deviorobert)
-- 🤖 [prompts](https://prompts.robertdevore.com)
+- 🗣️ [@deviorobert](https://x.com/deviorobert)
 
 ## whatsnext?
 I'm always up to something 😎
