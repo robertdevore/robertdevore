@@ -4,9 +4,9 @@ Opinionated open-source developer building decentralized systems that reduce pla
 
 ## whatido
 - 💻 Build open-source tools that simplify development and scale creative work.
-- 🌍 Advocate for decentralization and platform-independent publishing.
+- 🌍 Advocate for decentralization and platform-independent software.
 
-## whereiam
+## whereami
 
 - 🏠 [website](https://robertdevore.com/)
 - 🗣️ [@deviorobert](https://x.com/deviorobert)
